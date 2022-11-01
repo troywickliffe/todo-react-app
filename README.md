@@ -6,3 +6,4 @@ Getting familiar with:
 * Hooks
 * Components and Props
 * State and Lifecycle
+* Forms
