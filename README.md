@@ -1,6 +1,6 @@
 # todo-react-app
 
-Small todo app to get familiar with React library.
+Small todo app using React!
 
 Getting familiar with:
 * Hooks
